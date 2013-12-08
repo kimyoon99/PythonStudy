@@ -7,8 +7,11 @@
 <path>/PythonStudy/class</path>
 </pydev_pathproperty>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
-<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">python</pydev_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
 <path>/Library/Python/2.7/site-packages/pymongo-2.6.3-py2.7-macosx-10.8-intel.egg</path>
+<path>/Users/devsik/Documents/xlutils-1.7.0</path>
+<path>/Users/devsik/Documents/xlrd-0.9.2</path>
+<path>/Users/devsik/Documents/xlwt-0.7.5</path>
 </pydev_pathproperty>
 </pydev_project>
