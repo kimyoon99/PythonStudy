@@ -4,7 +4,7 @@ Created on 2013. 12. 8.
 @author: devsik
 '''
 import xlwt
-import datetime
+from datetime import datetime
 
 font = xlwt.Font();
 font.name = 'Times New Roman';
@@ -21,7 +21,7 @@ wb = xlwt.Workbook();
 ws = wb.add_sheet('A Test Sheet');
 
 ws.write(0, 0, 'Test', style);
-ws.write(1, 0, datetime.datetime.now(), style1);
+ws.write(1, 0, datetime.now(), style1);
 ws.write(2, 0, 1);
 ws.write(2, 1, 1);
 ws.write(2, 2, xlwt.Formula("A3+B3"));
